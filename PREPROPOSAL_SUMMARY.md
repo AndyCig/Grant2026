@@ -1,7 +1,7 @@
 # DUT Call 2026: Pre-Proposal Template Summary
 
-Sources: [`call-docs/DUT_Call_2026_Preproposal_Template.docx`](call-docs/DUT_Call_2026_Preproposal_Template.docx) and
-[`call-docs/DUT_Call_2026_Submission_Guidelines.pdf`](call-docs/DUT_Call_2026_Submission_Guidelines.pdf).
+Sources: [`call-docs/DUT_Call_2026_Preproposal_Template.docx`](call-docs/DUT_Call_2026_Preproposal_Template.docx), [`call-docs/DUT_Call_2026_Submission_Guidelines.pdf`](call-docs/DUT_Call_2026_Submission_Guidelines.pdf) and
+[`call-docs/DUT_Call_2026_Call_Text.pdf`](call-docs/DUT_Call_2026_Call_Text.pdf) (summarised in [`CALL_TEXT_SUMMARY.md`](CALL_TEXT_SUMMARY.md)).
 Text versions are in `call-docs/` (`.md` / `.txt`).
 
 ## Key dates
@@ -65,6 +65,29 @@ Project content and goals. Must match the abstract in the submission system word
 - **6.2 Scientific references (~1 page):** external state-of-the-art literature.
 
 **Page budget:** 3 + 3 + 5 + 2 = 13 recommended pages for sections 3–6, which is exactly the hard cap. Sections 1–2 aren't counted toward it.
+
+## How the template maps to the evaluation (from the Call Text)
+Each criterion is scored 0–5. **A proposal needs at least 3 on each and at least 10 in total.** See [`CALL_TEXT_SUMMARY.md`](CALL_TEXT_SUMMARY.md).
+
+| Criterion | Where the evaluators look |
+|---|---|
+| **Excellence**: objectives, soundness of the concept, transnational value, novelty (ROA) or innovativeness (IOA) | 3.1, 3.3, 3.4 |
+| **Impact and user engagement**: relevance to the topic's *expected outputs*, **diversity and gender**, stakeholders, dissemination | 3.2, 4.1, 4.2, 5.2 |
+| **Implementation**: consortium expertise and balance, timescale, **value for money** | 5.1, 5.2 (plus the online budget) |
+
+### Requirements the template doesn't spell out, but the Call Text does
+- **Diversity and gender has no section of its own**, but it's an evaluation sub-criterion. Cover it in 5.2 (consortium) and 3.1/4.1 (research content), or explain why it doesn't apply.
+- **The 4 DUT impact dimensions** (culture and values, governance and policy, technologies and infrastructure, business models and tools): show which ones you address (3.1/4.1).
+- **Systemic, place-based, co-creative** approach. Urban Living Labs are encouraged for IOA (Annex D).
+- **Build on earlier work** (H2020/Horizon Europe, Cities Mission, JPI Urban Europe, NetZeroCities, NEB, etc.) in 3.1.
+- **Knowledge Hub expert (4.2): at least 5 person-months.** Name the person and their contact details, and show the resources. Also budget up to EUR 30k for DUT events.
+- **Mission Innovation city representative** (about 2 PM, optional): worth mentioning in 4.2.
+- **Communication plan** with a named communication ambassador (4.2/5.1).
+- **No partner above 50% of person-months.** Show a balanced share of work and budget across countries (5.2).
+- **IOA:** stakeholders directly in the work, evidence-based evaluation, market potential (4.1). **ROA:** novelty beyond the state of the art, publications.
+- **Pre-proposal → full proposal:** objectives, coordinator and consortium are fixed. Write the pre-proposal objectives carefully.
+- **AI disclosure (5.3):** verify AI-generated content and citations, list sources, follow the EC guidelines on generative AI.
+- **National rules can make individual partners ineligible.** Example: TA CR (Czech Republic) funds only the cross-cutting topic, 15mC topic 2 and PED topic 3, not CUE as the main pathway, with a maximum of EUR 150k per project. Its forms must reach the TA CR data box **by 17 Nov 2026**.
 
 ## Entered online, not in the PDF (UDiManager, from the guidelines)
 - **Consortium:** at least 3 eligible applicants from 3 participating countries. It must include **at least one urban government authority** (as Main Applicant, Co-applicant or Cooperation Partner). Cross-cutting-topic proposals also need **at least one funded private-sector partner**.
