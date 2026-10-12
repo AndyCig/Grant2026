@@ -105,6 +105,44 @@ Three criteria, each scored 0–5 (half points allowed). **To be funded: at leas
 | Funding rates | Universities and public research organisations up to 100%. Enterprises: industrial research 50–80%, experimental development 25–60% depending on size. Public authorities and NGOs at enterprise rates | Under Programme Slovakia's state-aid scheme |
 | Contact | Ondřej Kusbach, ondrej.kusbach@tacr.cz | Juraj Fukatsch, juraj.fukatsch@cvtisr.sk |
 
+### Netherlands, Sweden, Switzerland
+| | **NL: NWO** | **NL: SIA** | **SE: Formas** | **SE: SWEA** (Energy Agency) | **SE: Vinnova** | **CH: SNSF** |
+|---|---|---|---|---|---|---|
+| Budget / projects | EUR 4 M / ~10 | EUR 1.2 M / 4–6 | EUR 3.2 M / 8–10 | EUR 1.5 M / 5–6 | EUR 1.1 M / 4–6 | CHF 1.8 M / 4–6 |
+| Max funding | EUR 400k per project | EUR 300k (EUR 325k if coordinator) | EUR 300k (EUR 400k if Swedish Main Applicant) | not set | EUR 300k | CHF 400k per applicant over 3 years (min. CHF 100k) |
+| Who can be funded | Universities, university medical centres, KNAW/NWO institutes, TO2 institutes (TNO, Deltares, WUR…). The lead needs a permanent or tenure-track contract | A **university of applied sciences (UAS) must lead**. SMEs, municipalities and NGOs only as its partners (max. 25% of the SIA funding); no large companies | Universities, institutes, companies, public authorities, NGOs (Swedish legal entity) | Same as Formas | Same, plus associations | **Research institutions only** (no companies or cities), scientifically independent researchers |
+| Topics | 15mC 2+3, CUE 2+3, PED 2+3 (**no cross-cutting**) | All | **CUE only** | **PED only** (cross-cutting with PED, PED 2, PED 3) | **Cross-cutting with 15mC only** | 15mC 2+3, CUE 2+3, PED 2+3 (**no cross-cutting**) |
+| Research type | Strategic and applied | Applied, practice-oriented, innovation | All (GBER art. 25) | Applied research and innovation | Applied research and innovation | **Non-commercial research, TRL 1–4** |
+| Required own contribution | – | **At least 20% in-kind** (from the UAS or its Dutch partners); a Dutch cooperation partner is mandatory | Only companies (by funding rate) | Viable Cities rules: **at least 50% co-financing for innovation projects, at least 75% for demonstration**. National consortium of **3 or more Swedish organisations** from 2 or more stakeholder groups | Only companies (by funding rate) | – |
+| Costs | **No overheads.** At least 1 postdoc (≥12 months, ≥0.5 FTE); materials up to 25%; **knowledge utilisation mandatory, up to 20%**; management up to 5%; **no PhD positions** | HOT tariffs, investments up to 20%, no overheads | Includes overheads (university full cost; others up to 30%) | Per Swedish national call text | Consultancy and licences up to 20% | **No overheads** (SNSF pays them to the institution separately) |
+| **Deadlines before 17 Nov** | **20 Oct 2026, 14:00**: documents for co-applicants outside the standard list (extract from the Chamber of Commerce, statutes, accounts, Research Organisation Statement) | The UAS board must approve the proposal | – | – | – | **Parallel pre-proposal in mySNF** ("Projects: Partnership: DUT: Pre-proposal") **by the same deadline**. One application for all Swiss partners |
+| Participation limits | A researcher can request NWO money in **only 1** proposal | A PI only once per UAS | – | – | – | Funded in **only 1** proposal (others self-financed) |
+| Contact | dutp@nwo.nl | dutp@regieorgaan-sia.nl | bjorn.svensbykurling@formas.se | emina.pasic@energimyndigheten.se | johanna.johansson@vinnova.se | dut@snf.ch |
+
+### Which topics can fund every country? (CZ · SK · NL · SE · CH)
+| Primary topic | CZ (TA CR) | SK | NL | SE | CH (SNSF) | All five? |
+|---|---|---|---|---|---|---|
+| Cross-cutting, 15mC main (IOA) | ✔ | ✔ | SIA only | Vinnova | ✗ | no CH |
+| Cross-cutting, PED main (IOA) | ✔ | ✔ | SIA only | SWEA | ✗ | no CH |
+| Cross-cutting, CUE main (IOA) | ✗ | ✔ | SIA only | Formas | ✗ | no |
+| 15mC topic 2 (corporate mobility) | ✔ | ✔ | NWO / SIA | ✗ | ✔ | no SE |
+| 15mC topic 3 (neighbourhood economies) | ✗ | ✔ | NWO / SIA | ✗ | ✔ | no |
+| CUE topic 2 or 3 | ✗ | ✔ | NWO / SIA | Formas | ✔ | no CZ |
+| PED topic 2 (private housing) | ✗ | ✔ | NWO / SIA | SWEA | ✔ | no CZ |
+| **PED topic 3 (flexibility, integrated tech)** | ✔ | ✔ | NWO / SIA | SWEA | ✔ | **yes, the only one** |
+
+**Tension to manage:** TA CR funds only applied research and innovation at TRL 3–9, with concrete result types such as a prototype, software or a certified methodology. SNSF funds only non-commercial research at TRL ≤4. A project combining both fits best as **ROA, or a research-leaning IOA**, with the Swiss work on the research and modelling side. Swedish SWEA money requires 50% co-financing and a Swedish sub-consortium of 3 organisations.
+
+## How the funding works (no matching multiplier)
+- There is **no "bring X and it gets multiplied" mechanism.** Each funded partner asks **its own national agency** for money for **its own eligible costs**. The agency pays a **funding rate** (a percentage of those costs).
+- **Funding rate** depends on organisation type and research category:
+  - Universities, public research organisations, and usually public authorities and non-economic NGOs: often **up to 100%**.
+  - Companies (under state-aid rules): industrial/applied research **50–80%**, experimental development/innovation **25–60%**, depending on size. **The company pays the rest itself.**
+- **"Total project costs" vs "Requested funds"** in the template: the difference is the partners' **own contribution**, including any cooperation partners who pay their own way.
+- **Some agencies require a contribution** even from 100%-funded partners: **SIA at least 20% in-kind**; **SWEA/Viable Cities at least 50%** co-financing (75% for demonstration).
+- **The EC's "up to 30% co-fund" goes to the agencies**, increasing the overall call budget. It doesn't increase any applicant's grant.
+- **"4×" is the oversubscription cap**: an agency's applicants go to stage 2 only while their requests stay under about 4× its budget. It isn't a multiplier of your money.
+
 Other quick facts from Table 1/2: DLR (DE) funds 15mC topic 2 only; FZJ-PtJ (DE) PED topic 3 only; Vinnova (SE) cross-cutting 15mC only; ETAG (EE) CUE only; FNRS (BE-WB), ARIS (SI), SNSF (CH), NWO (NL) and FWO fund universities and research only; Latvia (LCS) does not fund the cross-cutting topic.
 
 ## Contacts
