@@ -1,0 +1,572 @@
+Joint Call for Proposals
+for Research and Innovation Projects
+
+
+EUROPEAN PARTNERSHIP
+DRIVING URBAN TRANSITIONS
+Call for proposals n°5 (DUT Call 2026)
+Co-funded by the European Commission (Grant N° 101069506)
+
+
+
+
+Electronic Submission Guidelines for UDiManager
+uefiscdi-direct.ro
+
+
+
+IMPORTANT DEADLINES
+
+ Submission deadline pre-proposals:    17 November 2026 at 13:00 (CET)
+
+ Submission deadline full-proposals:   15 April 2027 at 13:00 (CET)
+Revisions of the submission guidelines
+If the submission guidelines have been updated, the changes are tracked in the table below.
+
+ Date                         Update
+
+
+
+
+Driving Urban Transitions (DUT)
+The Driving Urban Transitions (DUT) Partnership builds upon the achievements of the Joint Programming
+Initiative (JPI) Urban Europe created in 2010 to address the global urban challenges with the ambition to
+develop a European research and innovation (R&I) hub on urban matters and create European solutions
+by means of coordinated research. JPI Urban Europe so far has implemented fifteen transnational Joint
+Calls (out of which five were in cooperation with the European Commission (EC), three in international
+cooperation).
+
+While the DUT Partnership will build upon all these achievements, at the same time it will allow to enhance
+ambition, strongly increase the portfolio of projects, set up new measures towards capacity building, urban
+policy support, as well as demonstration and mainstreaming of results.
+
+The DUT Partnership is supported by the EC and funded under the Horizon Europe co-funded Partnership
+scheme (Topic HORIZON-CL5-2021-D2-01-16), under Grant Agreement N° 101069506.
+
+DUT Call 2026 is the fifth call of the DUT Partnership co-funded by the European Commission (EC) under
+the Horizon Europe framework programme.
+
+On a global level, DUT Call 2026 is part of the Mission Innovation (MI) call series, i.e., MICall26. As such,
+call topics are prepared in collaboration with the Urban Transitions Mission(UTM) under MI, and all topics
+of the call are open for applications that directly and/or indirectly contribute to the work of UTM.
+
+
+
+
+DUT Call 2026                    Electronic Submission Guidelines UDiManager                        Page 2/22
+Contents
+
+1     DRIVING URBAN TRANSITIONS ......................................... 1
+      Revisions of the submission guidelines.................................... 2
+      Driving Urban Transitions (DUT) ............................................ 2
+
+1     Introduction ...................................................................... 4
+      1.1 About your pre-proposal .............................................. 5
+      1.2 About the submission system ....................................... 5
+      1.3 Roles in the submission process .................................... 5
+
+2     How to connect .................................................................. 7
+      2.1 DUT Call 2026 Submission System on UDiManager ........... 7
+      2.2 Create your pre-proposal ............................................. 7
+
+
+
+
+DUT Call 2026                    Electronic Submission Guidelines UDiManager                  Page 3/22
+1        Introduction
+The purpose of this document is to describe the steps required to submit a pre-proposal on the electronic
+submission system of the DUT Call 2026, following the information provided on the website:
+https://dutpartnership.eu/calls/dut-call-2026 (pre-proposal template, link to the submission platform:
+https://uefiscdi-direct.ro and detailed information about the application process.
+
+The purpose of this Call for proposals is to support transnational research and/or innovation projects
+addressing urban challenges to help cities in their transition towards a more sustainable economy and
+functioning. The challenges are grouped into three themes called ‘Transition Pathways’: Positive Energy
+Districts, the 15-minute City and Circular Urban Economies.
+
+It is the fifth Call of the Partnership Driving Urban Transitions (DUT) funded by the European Commission
+under the Horizon Europe Partnership scheme.
+
+The projects selected within this Call will be funded directly by national/regional Funding Agencies from the
+following countries: https://dutpartnership.eu/calls/dut-call-2026.
+
+Each proposal must involve, at least, three partners from three countries that are eligible for
+funding by their respective national/regional Funding Agency. The added value of transnational
+collaboration should be clearly stated.
+
+The Call is open to a wide range of scientific disciplines and welcomes interdisciplinary approaches. It
+intends to support a large range of activities, from research to innovation and implementation.
+
+It also asks applicants to engage explicitly with stakeholders (including but not limited to public authorities,
+companies and NGOs) in projects and to consider users’ needs in the identification of project goals. Projects
+are expected to take a transdisciplinary and preferably co-creative approach from the early project
+formulation stage.
+
+Further information on this Call (mandatory templates to use for applying, link to the submission platform,
+etc.) can be found on the DUT Website.
+
+The Call is opened to a wide range of scientific disciplines and welcomes interdisciplinary approaches. It
+intends to support a large range of activities, from research to innovation and implementation.
+
+Research and innovation should not be seen as conflicting and instead as a continuum and most projects
+will probably be a mix of both. However, to help ensure a balanced portfolio of funded projects covering
+the R&I landscape, applicants are asked to identify and indicate which of the following approaches is the
+best fit for their project, depending on the main purpose of their proposal:
+
+    •    a more “research-oriented approach” (ROA) to support projects aiming at producing
+         knowledge, analysing data, better understanding and modelling phenomena and developing
+         expertise and tools that will be useful to stakeholders, practitioners and policy-makers. This R&I
+         orientation (called ROA moving forwards) welcomes proposals mainly focused on strategic and/or
+         applied research;
+    •    a more “innovation-oriented approach” (IOA) to support projects aiming at developing or
+         improving practical, operational solutions – technological and organisational – for companies, local
+         communities and authorities in charge of urban transport and urban planning, as well as
+         management and testing of such solutions. This R&I orientation (called IOA moving forwards)
+         welcomes proposals mainly focused on applied research and innovation1;
+
+
+
+
+1
+ If this call was focussed on technological research and development (which is not the case), we would have been talking of
+TRLs between 1 and 4 for ROA and above 4 for IOA.
+
+
+
+
+DUT Call 2026                         Electronic Submission Guidelines UDiManager                                  Page 4/22
+                Figure 1: positioning of the ROA and IOA with respect to research and innovation
+
+
+It also asks applicants to engage explicitly with stakeholders (companies, public authorities, NGOs…) in the
+projects and to consider users’ needs in the identification of the project goals. Projects are expected to
+take a transdisciplinary and preferably co-creative approach from the early project formulation stages.
+
+Both approaches are equal in relevance for this call.
+
+For proposals combining both research and innovation aspects, the project coordinator has to
+choose the R&I approach that is the most relevant considering the main objective and major
+novelty brought about by their project.
+
+For further information, please refer to the DUT Call 2026 Call Text and related documents available here:
+https://dutpartnership.eu/calls/dut-call-2026.
+
+
+   1.1          About your pre-proposal
+Prior to submission, the Main Applicant must read carefully the call announcement and prepare the
+application following the template available on the DUT Call 2026 website.
+
+    •   General information about the pre-proposal and the project partners, abstract and the
+        financial information (planned budget) will be submitted directly to the DUT Call 2026
+        electronic submission system, at www.uefiscdi-direct.ro;
+
+    •   A pre-proposal template describing the quality of work, project objectives, key activities,
+        data management, added value of the international cooperation and impact etc. is
+        available at https://dutpartnership.eu/calls/dut-call-2026 and will be uploaded in PDF format
+        to uefiscdi-direct.ro, before the pre-proposal submission.
+
+Please be aware that each funding organisation has its own funding criteria and regulations, which are
+mentioned in the call text. The financial information submitted at the transnational level is for evaluation
+purposes only. The presentation of the financial information to be submitted at the national level, for all
+proposals or for selected projects only depending on the funding organisation, might differ depending on
+the funding organisation (different categories of expenses, details about the distribution over time etc.).
+
+
+   1.2          About the submission system
+DUT Call 2026 electronic submission system is based on the Executive Agency for Higher Education,
+Research, Development and Innovation Funding (UEFISCDI) electronic submission system, UDiManager
+(uefiscdi-direct.ro). The present document is designed to guide you through the submission process and
+ensure a smooth submission.
+
+Each (modified) section in the submission system must be saved (using the “Save” button)
+before going to another section.
+
+
+   1.3          Roles in the submission process
+
+
+
+DUT Call 2026                     Electronic Submission Guidelines UDiManager                      Page 5/22
+Each project pre-proposal must be submitted by the Main Applicant of a consortium consisting of at least
+three eligible Applicants from at least three different participating countries that are eligible for
+funding by their respective national/regional Funding Agency (see Annex A and the transnational
+eligibility criteria of the DUT Call Text 2026: https://dutpartnership.eu/calls/dut-call-2026.
+
+•   Applicants are defined as organisations/institutions/companies (i.e. legal entities) that apply for
+    funding. Applicants can be:
+        o research organisations (universities, university colleges, research institutes or other entities
+            with research undertakings),
+        o companies and commercial organisations,
+        o    urban government authorities (such as regional and local government institutions,
+            municipalities and municipal organisations, city authorities, urban public administrations, and
+            infrastructure and service providers),
+        o consumers and civil society representatives (e.g. local and community organisations, non-
+            governmental organisations, not-for-profit organisations, citizens’ representatives, etc.).
+
+A pre-proposal consortium must include at least one urban government authority (city,
+municipality or entity providing key urban services) either as a Main Applicant, Co- applicant,
+or Co-operation Partner depending on the national/regional eligibility criteria.
+
+Consortia submitting a proposal in the cross-cutting topic must include at least one private
+sector organization (industry, company, business, SME, branch/sector organization) as a
+funded partner (Main or Co-applicant).
+
+•   The Main Applicant is the body responsible for coordinating and managing the project (i.e. project
+    coordinator). It will be the contact point with the DUT Call Secretariat on behalf of the whole consortium
+    and is responsible for the administrative management of the complete project. The Main Applicant is
+    responsible for overseeing the project activities and ensuring that the work programme is on track.
+
+A pre-proposal can be submitted electronically only by the Main Applicant.
+
+•   Co-applicants are Applicants other than the Main Applicant, eligible for funding from a Funding
+    Agency. There may be more than one Co-applicant from any participating country. If there is more
+    than one Co-applicant from a country, one of them needs to be identified as the National Contact Point.
+
+•   Co-operation Partners are partners that are not eligible for funding from Funding Agencies (e.g.
+    partners from countries not participating in this Call or not eligible for funding by any of the Funding
+    Agencies), but may be included in a project as Co-operation Partners if (a) they finance their activity
+    from other sources and (b) the consortium in general fulfils the requirements on the number of eligible
+    applicants from participating countries. A clear description/indication of the role and form of
+    engagement of these Cooperation Partners should be included in the proposal. A written commitment
+    (Letter of Intent) from Cooperation Partners, participating with their own funding or with an in-kind
+    contribution should be submitted with the full-proposal. It should be noted that Co-operation Partners
+    do not count toward the minimum of three eligible applicants from at least three participating countries
+    outlined in the transnational eligibility rule 1 below.
+
+•   Partners generically covers Applicants and Co-operation Partners.
+
+All partners need to confirm their participation in the pre-proposal consortium by e-mail. The
+invitation is sent through the submission system by the Main Applicant. This invitation can be
+sent twice. Only the Main Applicant will upload information in the DUT submission system and
+submit the pre-proposal.
+
+•   The Principal Contact Point (PCP) is defined as the person who is the lead investigator for an Applicant.
+
+A Principal Contact Point (PCP) must only participate in a maximum of two proposals (unless otherwise
+required by their respective Funding Agency), and only once as the PCP of a Main Applicant. If the Call
+
+
+
+
+DUT Call 2026                    Electronic Submission Guidelines UDiManager                         Page 6/22
+Secretariat, in charge of checking transnational eligibility, identifies the same person as PCP in
+more than two pre- proposals, or as PCP of the Main Applicant of more than one pre-proposal,
+all pre- proposals/full-proposals in which they are a PCP will be declared ineligible.
+
+
+2       How to connect
+The European Main Applicant can connect to the submission platform following the next steps.
+
+
+    2.1         DUT Call 2026 Submission System on UDiManager
+Access www.uefiscdi-direct.ro and start creating your account by clicking on [Sign up]
+
+
+
+
+In case you have forgotten your password, you can recover it by accessing ‘Forgot your password’ option
+based on the e-mail address you used when creating the account. Follow the steps received by e-mail.
+
+
+    2.2         Create your pre-proposal
+The Main Applicant accesses the DUT 2026 Submission from the Homepage of UDiManager
+(www.uefiscdi-direct.ro) and presses on Submit a Preproposal.
+
+The submission process of a pre-proposal has now started. The Main Applicant can save the information
+introduced and access the pre-proposal later for other updates during the submission process (before the
+deadline), unless the pre-proposal is already finalized and submitted.
+
+
+
+
+DUT Call 2026                   Electronic Submission Guidelines UDiManager                    Page 7/22
+The DUT Call 2026 submission system has four main sections that the Main Applicant needs to fill in for all
+consortium partners: General Information, Financial Information, Other documents and
+Verify/Finalize.
+
+    ➔ General Information
+This section contains all the general information about your project and has four sub-sections:
+
+1.1 Pre-proposal information: name, acronym, abstract, project duration, project type etc.
+
+
+
+
+NEW! Please make sure you are checking the new option regarding the publication of the project’s abstract
+for the widening procedure, as described by the DUT Call Text in section 4.1: “It is possible that invited
+consortia will be explicitly allowed by the DUT Call Secretariat to integrate, in their full proposal, additional
+partners requesting funds from specific Funding Agencies, if these Funding Agencies are underrepresented
+
+
+
+
+DUT Call 2026                     Electronic Submission Guidelines UDiManager                          Page 8/22
+in the proposals invited to the second stage. However, this possibility does not invalidate the consistency
+requirements between pre-proposal and full proposal stage outlined at the end of section 3.3.”
+
+
+
+
+In this General Information section, the Main Applicants is selecting the project type, according to the
+requirement of the DUT Call Text, only one of the two approaches can be chosen: research-oriented
+approach (ROA) or innovation-oriented approach (IOA).
+
+For proposals combining both research and innovation aspects, the Main Applicant has to
+choose the R&I approach that is the most relevant considering the main objective and major
+novelty brought about by their project. Please note that the cross-cutting topics (topic #1 in
+each pathway) are reserved for IOA proposals.
+
+
+
+
+DUT Call 2026                   Electronic Submission Guidelines UDiManager                       Page 9/22
+Please be aware that the total effort in person months (PM), total budget and requested budget for the
+overall pre-proposal is calculated automatically from the financial information (budget breakdown) section.
+
+NEW! The pre-proposal pdf can now be uploaded in the first section of the General Information (1.Pre-
+proposal   Info).   The    template     can   be    found  on   the  DUT   Call   2026’s    webpage:
+https://dutpartnership.eu/calls/dut-call-2026, in the Documents tab.
+
+
+
+
+This area is dedicated to an extended description of the project where applicants need to provide
+information about the quality of work, project objectives, key activities, data management, added value of
+the international cooperation, impact and other relevant data.
+
+One document must be uploaded imperatively as an unprotected PDF file (document generated from
+a word processor file to a PDF, no scanned document). Please use the template available on the DUT Call’s
+website:                                                   https://dutpartnership.eu/calls/dut-call-2026.
+
+Please stick to the following formatting requirements (font size, line spacing). Both formatting requirements
+as well as the maximum number of pages (specified in the respective chapters) help the Expert Panel
+members to read and compare the proposals. Please note that not sticking to the formatting
+requirements will render your proposal ineligible.
+
+Once the PDF is uploaded, the Main Applicant can still replace it, if late changes occur, but no changes are
+possible after the pre-proposal submission deadline.
+
+
+
+1.2 Topics and Key Words: here the Main Applicant is selecting the main Transition Pathway (TP) and
+    the topics related to that specific TP and other connected Transition Pathways, if this is the case.
+
+
+
+
+DUT Call 2026                    Electronic Submission Guidelines UDiManager                       Page 10/22
+    The submission system will require also mandatory and optional keywords to better describe your pre-
+    proposal approach.
+
+    NEW! The DUT Call Secretariat is asking the Main Applicant to select up to 5 keywords to support the
+    selection process of the independent reviewers.
+
+
+
+
+DUT Call 2026                  Electronic Submission Guidelines UDiManager                    Page 11/22
+1.3 Consortium (pre-proposal) – an essential section of the pre-proposal in the submission system.
+   Here the Main Applicant adds the project partners and the requested details, keeping in mind the
+   transnational and national eligibility rules of the DUT Call 2026.
+
+
+
+
+Once the Main Applicant has started the pre-proposal submission, in this section regarding the Consortium
+structure will be able to edit own details by pressing on the ‘edit’ symbol.
+
+
+
+
+DUT Call 2026                   Electronic Submission Guidelines UDiManager                    Page 12/22
+The first step to edit a partner profile is to select the role in the project: Co-applicant or Cooperation
+Partners. Please refer to section 3.1 above or to the DUT Call Text for the definitions.
+
+It is mandatory to use a PIC for all pre-proposal partners asking for funds from the DUT Funding
+Agencies, including the Cooperation Partners.
+
+PICs are mandatory for all applicants. Validation of the PIC is not mandatory.
+It   normally    takes   less    than    10    minutes    to    register   your organisation:
+1. check        if        your         organization         is        already      registered
+2.       if        it      is       not        already, register        your     organization
+The EC also provides additional instructions that you may find helpful.
+
+Once the PIC is introduced, the information is imported automatically from the European Commission’s
+portal.
+
+The Main Applicant needs to make sure that the type of organisation is correctly selected as well as the
+Funding Agency where the respective partner is applying for funds. Please be aware that once one partner
+is added, a budget section is created for that partner automatically in section 2 – Financial Information.
+
+All fields marked with red * are mandatory. However, if some information is missing, the option to press
+Verify in section 4 – Verify/Finalize will help the Main Applicant to return to the section and add the missing
+information.
+
+The Main Applicants needs to make sure the Curriculum Vitae of the PI, gender and other contact details
+are filled-in correctly.
+
+
+
+
+DUT Call 2026                     Electronic Submission Guidelines UDiManager                        Page 13/22
+Overall, the Main Applicant needs to pay attention when selecting the number of partners, as their
+number will later correlate with the Financial information (budget planning) section.]
+
+Please remember to always press “Save” when navigating from one section to another.
+
+Once a new partner is added and the Main Applicant has filled-in the required data for the respective
+organisation, after pressing Save, the e-mail address introduced will receive and invitation to confirm
+participation in the pre-proposal consortium.
+
+
+
+
+DUT Call 2026                  Electronic Submission Guidelines UDiManager                   Page 14/22
+If the respective partner didn’t receive the invitation, the Main Applicant can resend it through the
+submission system, by pressing Resend e-mail to this partner.
+
+
+
+
+The e-mail account nominated for the respective partner will receive a notification to confirm by e-mail the
+participation. No further actions are possible for the project partners, only the Main Applicant edits the pre-
+proposal in the submission system (UDiManager).
+
+
+
+
+The Main Applicant can check the status for the partners’ confirmation in section 1.3 Consortium
+(preproposal)
+
+
+
+
+DUT Call 2026                     Electronic Submission Guidelines UDiManager                       Page 15/22
+NEW! There is a new feature available in the submission system for the DUT Call 2026 regarding the
+applicants from the same country: one organisation from the consortium coming from the same country
+can be appointed as the national contact point. This way, the Funding Partner from that country will contact
+directly the appointed national contact point for any clarifications during the national eligibility checks.
+
+
+
+
+DUT Call 2026                    Electronic Submission Guidelines UDiManager                      Page 16/22
+1.4 Researchers – this sub-section will already display all the persons nominated for each partner
+    organisation involved in the pre-proposal consortium. Very similar to the List of Researchers available
+    in the calls launched under Horizon Europe, the Main Applicant will have the option to add a research
+    category and a researcher ID (e.g.: ORCID. Furthermore, this section allows adding more researchers
+    involved in one partner organisation.
+
+
+
+
+DUT Call 2026                   Electronic Submission Guidelines UDiManager                      Page 17/22
+    ➔ Financial information
+This section is dedicated to the budget planning for your project. The Main Applicant needs to carefully
+check all the information introduced and press the “Save” button after filling in the information for each
+project partner, to make sure your final financial data is correctly displayed.
+
+
+
+
+The Main Applicant needs to make sure that is selecting the correct type of research and/or innovation that
+the respective organisation is asking funds for, in accordance with the DUT Call Text and Annex A.
+
+In addition to the transnational rules and procedures of the DUT Call 2026, there may be specific Funding
+Agencies’ rules (e.g. Funding Agencies’ eligibility criteria for certain organisations, co- funding
+
+
+
+DUT Call 2026                   Electronic Submission Guidelines UDiManager                      Page 18/22
+requirements, national/regional evaluation rules, submission of additional documents or information on a
+national/regional platform, etc.). Please note that there are also limitations regarding the types of research
+or innovation activities that different Funding Agencies are able to support.
+
+It is strongly recommended to check these national/regional rules with the contact person at the respective
+Funding Agency (see Annex A) before submitting a proposal.
+
+Please be aware that the PM effort, total budget and the requested funds are calculated automatically for
+the entire consortium and totalled automatically in the first screen (sub-section Preproposal information in
+1. General information).
+
+The Cooperation Partners, the entities that are not eligible for funding will also have a budget
+associated with only one category where the Main Applicant can insert the equivalent of their
+in-kind contribution to the project or a number for their own funds. However, that field can be
+also left with a “0” (null) if it is not possible to provide such an estimation.
+
+
+
+
+Please be aware that a Letter of Intent is mandatory for the Cooperation Partners only for those
+consortia invited to submit a full proposal, in the second phase of the DUT Call 2026.
+
+
+
+
+DUT Call 2026                    Electronic Submission Guidelines UDiManager                        Page 19/22
+    ➔ Other documents
+This area is dedicated to the communication with the DUT Call Secretariat if additional information is needed
+during the eligibility or evaluation process.
+
+
+
+
+    ➔ Submission of the pre-proposal - Section 4.Verify/finalize
+This area allows the Main Applicants to check if any relevant information is missing from their application.
+‘Verify’ can be pressed many times before the submission. ‘Finalize’ is the button that will convert the
+application to an official record (timestamp) followed by a receipt confirmation message and offering also
+the possibility to download a copy of your application.
+
+Unless your application is final, please make sure you don’t press ‘Finalize’.
+
+After submission, in case a Main Applicant wishes to withdraw an application, please contact the DUT Call
+Secretariat at call@dutpartnership.eu.
+
+
+
+
+DUT Call 2026                    Electronic Submission Guidelines UDiManager                       Page 20/22
+The submission system (UDiManager) will automatically send a submission confirmation e-mail
+message to the Main Applicant containing the application identification number as well as the submission
+timestamp.
+
+
+
+
+DUT Call 2026                  Electronic Submission Guidelines UDiManager                    Page 21/22
+You can also double-check the submission notifications from your UDiManager account.
+
+For any technical difficulties, please contact the IT team coordinating the submission system at
+support@uefiscdi-direct.ro.
+
+If you have questions on the general call process and pre-proposal submission, please contact the
+
+DUT Call Secretariat:
+
+Elena Simion
+
+U E F I S C D I – Executive Agency for Higher Education, Research, Development and Innovation Funding
+
+Wassim Sebai
+
+Agence Nationale de la Recherche (ANR)
+
+Maria Rachele Nocera
+
+Ministero dell’Università e della Ricerca (MUR)
+
+
+E-mail: call@dutpartnership.eu
+
+Contact points of participating Funding Agencies
+
+For questions regarding specific Funding Agencies’ rules and additional forms please check “Annex A:
+Specific Funding Agencies’ Budgets and Rules of Eligibility” first. Additional information can be obtained by
+contacting the indicated national contact persons at the participating Funding Agencies:
+https://dutpartnership.eu/calls/dut-call-2026.
+
+
+
+
+DUT Call 2026                    Electronic Submission Guidelines UDiManager                       Page 22/22
+
